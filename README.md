@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=loki0865" alt="GitHub Streak" />
+  <img src="https://img.shields.io/endpoint?url=https://github-readme-streak-stats.demolab.com/api?user=loki0865" alt="GitHub Streak" />
 </p>
