@@ -1,74 +1,142 @@
 <h1 align="center">Hi 👋, I'm Lokesh Alasandi</h1>
-<h3 align="center">A Passionate Programmer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=loki0865&label=Profile%20views&color=0e75b6&style=flat" alt="loki0865" /> 
-</p>
-
-- 🌱 I’m currently learning **C++**  
-- 💬 Ask me about **C++, Arduino, and core electronics**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lokeshalasandi/)  
-- ⚡ Fun fact: **I think I am funny and I love to explore tech!**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/lokesh_alasandi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh_alasandi" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/lokeshalasandi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeshalasandi" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40}/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40}/> 
-  </a> 
-  <a href="https://www.linux.org/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <a href="https://github.com/Loki0865">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">
+Aspiring Software Engineer | C++ Developer | AI Enthusiast | Electronics Engineer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Loki0865">
-    <img src="https://github-readme-stats.vercel.app/api?username=loki0865&show_icons=true&locale=en" alt="Lokesh Alasandi's GitHub Stats" />
-  </a>
+🚀 Actively seeking Software Engineering, AI/ML, and Embedded Systems opportunities
 </p>
 
+<img align="right" alt="Coding" width="400"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Loki0865&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Electronics and Communication Engineering graduate
+- 💻 Interested in Software Engineering, AI, and Embedded Systems
+- 🌱 Currently learning **C++, Data Structures & Algorithms, and System Design**
+- 🚀 Building projects in AI, automation, and software engineering
+- 🎯 Looking for entry-level Software Engineer, AI Engineer, and Embedded Engineer roles
+- 📫 Reach me at **lokesh.goud.alasandi@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lokeshalasandi/" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn"
+height="30"
+width="40" />
+</a>
+
+<a href="mailto:lokesh.goud.alasandi@gmail.com">
+<img align="center"
+src="https://img.icons8.com/color/48/gmail-new.png"
+alt="Email"
+height="40"
+width="40" />
+</a>
+
+<a href="https://github.com/Loki0865" target="_blank">
+<img align="center"
+src="https://img.icons8.com/fluency/48/github.png"
+alt="GitHub"
+height="40"
+width="40" />
+</a>
+
+<a href="https://Loki0865.github.io" target="_blank">
+<img align="center"
+src="https://img.icons8.com/color/48/domain.png"
+alt="Portfolio"
+height="40"
+width="40" />
+</a>
+
+</p>
+
+---
+
+## 🌍 Portfolio
+
+🔗 **Portfolio Website:** https://Loki0865.github.io
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino" />
+</p>
+
+### Areas of Interest
+
+- Software Engineering
+- Artificial Intelligence
+- Embedded Systems
+- Automation
+- Backend Development
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Real-Time Industry Insight and Strategic Intelligence System
+Developed during the Infosys Springboard internship to analyze industry trends and generate actionable insights.
+
+**Tech Stack:** Python, Data Analysis, AI, Visualization
+
+---
+
+### 🤖 CareerPilot AI
+AI-powered career assistant built using Google ADK and Gemini.
+
+**Tech Stack:** Python, Google ADK, Gemini
+
+---
+
+### 🧠 AI Automation Projects
+Automation tools and intelligent workflows using browser automation and AI.
+
+**Tech Stack:** Python, Playwright, Automation
+
+---
+
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=loki0865" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Loki0865&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Master Data Structures and Algorithms
+- Strengthen System Design fundamentals
+- Build production-quality projects
+- Contribute to Open Source
+- Secure a Software Engineering role
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
