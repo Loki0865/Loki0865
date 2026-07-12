@@ -5,85 +5,63 @@ Aspiring Software Engineer | C++ Developer | AI Enthusiast | Electronics Enginee
 </h3>
 
 <p align="center">
-🚀 Actively seeking Software Engineering, AI/ML, and Embedded Systems opportunities
+🚀 Open to Software Engineering, AI/ML, and Embedded Systems opportunities
 </p>
 
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Loki0865&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Loki0865&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
 - 🎓 Electronics and Communication Engineering graduate
-- 💻 Interested in Software Engineering, AI, and Embedded Systems
+- 💻 Passionate about Software Engineering, AI, and Embedded Systems
 - 🌱 Currently learning **C++, Data Structures & Algorithms, and System Design**
-- 🚀 Building projects in AI, automation, and software engineering
-- 🎯 Looking for entry-level Software Engineer, AI Engineer, and Embedded Engineer roles
+- 🚀 Building projects in AI, Automation, and Software Engineering
+- 🎯 Seeking entry-level **Software Engineer**, **AI Engineer**, and **Embedded Engineer** opportunities
 - 📫 Reach me at **lokesh.goud.alasandi@gmail.com**
+- 🌐 Portfolio: **https://Loki0865.github.io**
+
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/lokeshalasandi/" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="30"
-width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
 </a>
 
 <a href="mailto:lokesh.goud.alasandi@gmail.com">
-<img align="center"
-src="https://img.icons8.com/color/48/gmail-new.png"
-alt="Email"
-height="40"
-width="40" />
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48"/>
 </a>
 
 <a href="https://github.com/Loki0865" target="_blank">
-<img align="center"
-src="https://img.icons8.com/fluency/48/github.png"
-alt="GitHub"
-height="40"
-width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" width="48" height="48"/>
 </a>
 
 <a href="https://Loki0865.github.io" target="_blank">
-<img align="center"
-src="https://img.icons8.com/color/48/domain.png"
-alt="Portfolio"
-height="40"
-width="40" />
+  <img src="https://img.icons8.com/color/48/domain.png" width="48" height="48"/>
 </a>
-
 </p>
-
----
-
-## 🌍 Portfolio
-
-🔗 **Portfolio Website:** https://Loki0865.github.io
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
 </p>
 
 ### Tools & Technologies
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino" />
 </p>
 
 ### Areas of Interest
@@ -99,35 +77,35 @@ width="40" />
 ## 🚀 Featured Projects
 
 ### 📊 Real-Time Industry Insight and Strategic Intelligence System
-Developed during the Infosys Springboard internship to analyze industry trends and generate actionable insights.
+Developed during the Infosys Springboard internship to analyze industry trends and generate actionable business insights.
 
-**Tech Stack:** Python, Data Analysis, AI, Visualization
+**Tech Stack:** Python • Data Analytics • AI • Visualization
 
 ---
 
 ### 🤖 CareerPilot AI
-AI-powered career assistant built using Google ADK and Gemini.
+An AI-powered career assistant designed to help users with career planning and professional growth.
 
-**Tech Stack:** Python, Google ADK, Gemini
+**Tech Stack:** Python • Google ADK • Gemini
 
 ---
 
 ### 🧠 AI Automation Projects
-Automation tools and intelligent workflows using browser automation and AI.
+Automation tools and intelligent workflows built using browser automation and AI technologies.
 
-**Tech Stack:** Python, Playwright, Automation
+**Tech Stack:** Python • Playwright • Automation
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Loki0865&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loki0865&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
 - Master Data Structures and Algorithms
 - Strengthen System Design fundamentals
@@ -138,5 +116,5 @@ Automation tools and intelligent workflows using browser automation and AI.
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile! Feel free to connect with me.
 </p>
